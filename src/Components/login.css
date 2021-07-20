@@ -1,0 +1,19 @@
+.frame{
+    text-align: center;
+    background-color: rgb(209, 209, 209);
+    border: 1px solid black;
+    border-radius: 5pc;
+    box-shadow: 5px 10px black;
+    
+}
+.frame {
+    margin-top: 40px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    width: 822px;
+}
+.comment{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 20px;
+}

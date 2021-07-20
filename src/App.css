@@ -1,0 +1,25 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  /* background: #3a6186;  /* fallback for old browsers */
+  /* background: -webkit-linear-gradient(to right, #89253e, #3a6186);  
+  background: linear-gradient(to right, #89253e, #3a6186);  */
+}
+.imageTag{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  background-color: rgb(29, 73, 122);
+  color: white;
+  width: auto;
+  margin-top: 10px;
+  border: 2px solid white;
+  border-radius: 3pc;
+  text-align: center;
+
+}
